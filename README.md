@@ -1,7 +1,7 @@
 haconv
 ======
 
-A very simple (as far as i know ansi conform) hex-to-ascii-converter.
+A very simple (as far as I know ansi conform) hex-to-ascii-converter.
 
 Compile it with:
 $ gcc -o haconv haconv.c
