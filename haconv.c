@@ -1,7 +1,7 @@
 /***********************************************************************
 
    haconv.c -- A hex to ascii converter (and vice versa)
-   Copyright (C) 2013 DIban Hakistron.
+   Copyright (C) 2014 DIban Hakistron.
 
    This program is free software: you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
